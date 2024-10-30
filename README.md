@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jieun!&fontSize=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=1.1&duration=4000&pause=1000&color=60D775&vCenter=true&width=435&lines=Java+%26+Python+Back-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=5BCF8E&center=true&vCenter=true&random=true&width=435&lines=Java+%26+Python+Back-end+Developer)](https://git.io/typing-svg)
+
 
 ## Hi there 👋
 
