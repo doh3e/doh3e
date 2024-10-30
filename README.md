@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=5BCF8E&center=true&vCenter=true&random=true&width=435&lines=Java+%26+Python+Back-end+Developer)](https://git.io/typing-svg)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doh3e&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Hi there 👋
 
 <!--
