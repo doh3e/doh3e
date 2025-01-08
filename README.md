@@ -6,6 +6,14 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoh3e%2Fhit-counter&count_bg=%23CBCBCB&title_bg=%237EDD83&icon=leaflet.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/doh3e"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doh3e&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
