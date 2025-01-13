@@ -15,10 +15,10 @@
 </a>
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doh3e&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doh3e&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doh3e&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doh3e&hide=jupyter%20notebook,html&exclude_repo=ssafy12)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skills
 ### Back-end
