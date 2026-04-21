@@ -13,7 +13,6 @@
   height="300"
 />
 </a>
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/roya0818" width="600" height="300"/></a>
 
 ## GitHub Stats
 
